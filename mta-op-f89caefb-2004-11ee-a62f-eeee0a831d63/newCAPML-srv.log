@@ -1,0 +1,1516 @@
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:30.807776] Added process: "web" (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:30.815931] Created app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:30.931041] Updating process: "web" (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:31.033996] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:31.542670] Updated app with guid c3f94b08-f586-4c56-b119-ab943e9335ad ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:43.489400] Uploading app package for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:43.676328] Updated app with guid c3f94b08-f586-4c56-b119-ab943e9335ad ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:51.409068] Creating build for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:53.262140] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:53.289031] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:53.289082] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 creating container for instance fe822f78-ab20-497d-a465-9904dbd77d64 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:53.632984] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.710#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:53.648032] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 successfully created container for instance fe822f78-ab20-497d-a465-9904dbd77d64 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:54.114090] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:54.443203] Downloaded app package (3.7M) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:54.549752] -----> Nodejs Buildpack version 1.8.9 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:54.673541] -----> Bootstrapping python (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:54.673557] -----> Installing python 3.10.10 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:54.673627] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/15767492c6f5ea8df33d4884e0261788/python_3.10.10_linux_x64_cflinuxfs4_430b17fd.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:57.206212] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:57.206265] engines.node (package.json): unspecified (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:57.206272] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:57.206275] [31;1m**WARNING**[0m Node version not specified in package.json or .nvmrc. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:57.206335] -----> Installing node 18.15.0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:57.206401] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/f0d498492e131603a63dfbb71d095158/node_18.15.0_linux_x64_cflinuxfs4_8d6d8524.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.237521] Using default npm version: 9.5.0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.237531] -----> Installing yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.237593] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/0f06052381cbcef1593bd279ca3d9458/yarn_1.22.19_linux_noarch_any-stack_32d0e82e.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.558197] Installed yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.558216] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.560081] NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.560104] NODE_HOME=/tmp/contents606937473/deps/0/node (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.560106] NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.560108] NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.560110] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.560112] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.560138] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.560140] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:28:59.560183] Rebuilding any native modules (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:00.082956] rebuilt dependencies successfully (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:00.091644] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:00.767157] up to date in 319ms (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:00.767242] 9 packages are looking for funding (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:00.767306] run `npm fund` for details (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:01.520518] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:01.520555] inside Sealights hook (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:01.520646] service is not configured to run with Sealights (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:09.542392] Exit status 0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:09.542433] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:09.542481] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:09.542513] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:09.558931] Uploaded build artifacts cache (217B) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:10.100317] Creating droplet for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:14.213965] Uploaded droplet (47.5M) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:14.223015] Uploading complete (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:14.666975] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 stopping instance fe822f78-ab20-497d-a465-9904dbd77d64 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:14.667004] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 destroying container for instance fe822f78-ab20-497d-a465-9904dbd77d64 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:18.016821] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 successfully destroyed container for instance fe822f78-ab20-497d-a465-9904dbd77d64 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.711#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:22.041783] Updated app with guid c3f94b08-f586-4c56-b119-ab943e9335ad ({:droplet_guid=>"76de0b4e-df77-4629-b2a6-5e3c3cd730c1"}) (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:22.368669] Creating revision for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:22.414250] Starting app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:22.759282] Cell f9f3dfd9-5fc8-4732-9176-e671bdbc9404 creating container for instance 3572a38d-b381-4759-66c4-d009 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:23.248374] Security group rules were updated (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:23.266547] Cell f9f3dfd9-5fc8-4732-9176-e671bdbc9404 successfully created container for instance 3572a38d-b381-4759-66c4-d009 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:23.511229] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:26.222561] Downloaded droplet (47.5M) (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:26.222679] Starting health monitoring of container (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.021821] > newCAPML@1.0.0 start (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.021830] > cds-serve (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.358610] [cds] - loaded model from 1 file(s): (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.358623] [2m (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.358855] srv/csn.json (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.358863] [0m (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543645] [cds] - connect to db > hana { (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543658] database_id: '14a552ee-5028-4a45-933e-28455029a1c7', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543662] host: '14a552ee-5028-4a45-933e-28455029a1c7.hna0.prod-eu10.hanacloud.ondemand.com', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543670] port: '443', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543674] driver: 'com.sap.db.jdbc.Driver', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543678] url: 'jdbc:sap://14a552ee-5028-4a45-933e-28455029a1c7.hna0.prod-eu10.hanacloud.ondemand.com:443?encrypt=true&validateCertificate=true&currentschema=33FF97A78A9147B196A80C74FB094242', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543681] schema: '33FF97A78A9147B196A80C74FB094242', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543686] hdi_user: '33FF97A78A9147B196A80C74FB094242_23RZL0N2IJBV0UO6TYREJSQOC_DT', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543689] hdi_password: '...', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543692] user: '33FF97A78A9147B196A80C74FB094242_23RZL0N2IJBV0UO6TYREJSQOC_RT', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543695] password: '...', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543698] certificate: '...' (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.543700] } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.575197] [cds] - (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.575210] No XSUAA instance bound to application, but "JWT" configured. (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.575213] This is NOT recommended in production! (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.575216]  (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.777395] [cds] - serving CatalogService { path: '/catalog', impl: 'srv/hana-ml-cat-service.js' } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.784572] [cds] - server listening on { url: 'http://localhost:8080' } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:27.784939] [cds] - launched at 7/11/2023, 3:29:27 PM, version: 6.8.4, in: 596.123ms (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:29:29.261956] Container became healthy (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:01.158935] Uploading app package for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:01.357840] Updated app with guid c3f94b08-f586-4c56-b119-ab943e9335ad ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:10.347284] Stopping app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:10.392787] Cell f9f3dfd9-5fc8-4732-9176-e671bdbc9404 stopping instance 3572a38d-b381-4759-66c4-d009 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:10.700614] Creating build for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:11.217858] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:11.272595] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:11.272641] Cell 15222f54-9473-430c-9920-ced9535274ef creating container for instance 135400fe-652d-4546-8962-7a63c850c0e7 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:11.684449] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:11.700491] Cell 15222f54-9473-430c-9920-ced9535274ef successfully created container for instance 135400fe-652d-4546-8962-7a63c850c0e7 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:11.869490] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:11.869500] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:11.945485] Downloaded build artifacts cache (217B) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:12.224386] Downloaded app package (3.7M) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:12.309352] -----> Nodejs Buildpack version 1.8.9 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:12.445435] -----> Bootstrapping python (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:12.445445] -----> Installing python 3.10.10 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:12.445502] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/15767492c6f5ea8df33d4884e0261788/python_3.10.10_linux_x64_cflinuxfs4_430b17fd.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:14.942575] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:14.942668] engines.node (package.json): unspecified (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.712#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:14.942676] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:14.942680] [31;1m**WARNING**[0m Node version not specified in package.json or .nvmrc. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:14.942682] -----> Installing node 18.15.0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:14.942809] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/f0d498492e131603a63dfbb71d095158/node_18.15.0_linux_x64_cflinuxfs4_8d6d8524.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.008809] Using default npm version: 9.5.0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.008822] -----> Installing yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.008878] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/0f06052381cbcef1593bd279ca3d9458/yarn_1.22.19_linux_noarch_any-stack_32d0e82e.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.330502] Installed yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.330516] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.331640] NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.713#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.331648] NODE_HOME=/tmp/contents1552053299/deps/0/node (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.331652] NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.331685] NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.331690] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.331692] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.331734] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.331741] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.331744] Rebuilding any native modules (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.850729] rebuilt dependencies successfully (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:17.859606] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:18.552975] up to date in 337ms (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:18.553037] 9 packages are looking for funding (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:18.553053] run `npm fund` for details (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:19.267946] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:19.267974] inside Sealights hook (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:19.268010] service is not configured to run with Sealights (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:27.221727] Exit status 0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:27.221763] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:27.221802] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:27.221814] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:27.255593] Uploaded build artifacts cache (224B) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:28.045394] Creating droplet for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:30.172058] Uploaded droplet (47.5M) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:30.182229] Uploading complete (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:30.702354] Cell 15222f54-9473-430c-9920-ced9535274ef stopping instance 135400fe-652d-4546-8962-7a63c850c0e7 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:30.702379] Cell 15222f54-9473-430c-9920-ced9535274ef destroying container for instance 135400fe-652d-4546-8962-7a63c850c0e7 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:32.461143] Cell 15222f54-9473-430c-9920-ced9535274ef successfully destroyed container for instance 135400fe-652d-4546-8962-7a63c850c0e7 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:40.098097] Updated app with guid c3f94b08-f586-4c56-b119-ab943e9335ad ({:droplet_guid=>"7dc7c009-7773-4c25-ab90-24e9ba28016a"}) (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:42.093137] Creating revision for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:42.138866] Starting app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:42.513771] Cell e608d54b-1780-4022-acd9-94afd9f8a44a creating container for instance 9386cc35-47cd-4a70-4d74-a7b6 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:43.036528] Security group rules were updated (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:43.056655] Cell e608d54b-1780-4022-acd9-94afd9f8a44a successfully created container for instance 9386cc35-47cd-4a70-4d74-a7b6 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:43.551734] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:46.137065] Downloaded droplet (47.5M) (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:46.137165] Starting health monitoring of container (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:46.909693] > newCAPML@1.0.0 start (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:46.909711] > cds-serve (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.248200] [cds] - loaded model from 1 file(s): (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.248213] [2m (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.248518] srv/csn.json (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.248538] [0m (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434737] [cds] - connect to db > hana { (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434756] database_id: '14a552ee-5028-4a45-933e-28455029a1c7', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434760] host: '14a552ee-5028-4a45-933e-28455029a1c7.hna0.prod-eu10.hanacloud.ondemand.com', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434764] port: '443', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.714#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434767] driver: 'com.sap.db.jdbc.Driver', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434774] url: 'jdbc:sap://14a552ee-5028-4a45-933e-28455029a1c7.hna0.prod-eu10.hanacloud.ondemand.com:443?encrypt=true&validateCertificate=true&currentschema=33FF97A78A9147B196A80C74FB094242', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434777] schema: '33FF97A78A9147B196A80C74FB094242', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434780] hdi_user: '33FF97A78A9147B196A80C74FB094242_5WOF06CRBQSWIHAS1NGS9BT24_DT', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434783] hdi_password: '...', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434789] user: '33FF97A78A9147B196A80C74FB094242_5WOF06CRBQSWIHAS1NGS9BT24_RT', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434796] password: '...', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434798] certificate: '...' (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.434801] } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.464508] [cds] - (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.464523] No XSUAA instance bound to application, but "JWT" configured. (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.464527] This is NOT recommended in production! (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.464534]  (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.651485] [cds] - serving CatalogService { path: '/catalog', impl: 'srv/hana-ml-cat-service.js' } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.658335] [cds] - server listening on { url: 'http://localhost:8080' } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:47.658844] [cds] - launched at 7/11/2023, 3:35:47 PM, version: 6.8.4, in: 582.346ms (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:35:48.476136] Container became healthy (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:36:16.979579] Cell f9f3dfd9-5fc8-4732-9176-e671bdbc9404 destroying container for instance 3572a38d-b381-4759-66c4-d009 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:36:17.135596] Exit status 137 (STDOUT, PROXY)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:36:18.419468] Cell f9f3dfd9-5fc8-4732-9176-e671bdbc9404 successfully destroyed container for instance 3572a38d-b381-4759-66c4-d009 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:00.895318] Uploading app package for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:01.116117] Updated app with guid c3f94b08-f586-4c56-b119-ab943e9335ad ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:09.550208] Stopping app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:09.599406] Cell e608d54b-1780-4022-acd9-94afd9f8a44a stopping instance 9386cc35-47cd-4a70-4d74-a7b6 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:09.819670] Creating build for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:10.451166] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:10.477104] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:10.477153] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 creating container for instance 53109267-e3c5-4bbd-81b5-cec7ed5b503f (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:10.848439] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:10.864423] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 successfully created container for instance 53109267-e3c5-4bbd-81b5-cec7ed5b503f (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:11.352482] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:11.352482] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:11.388690] Downloaded build artifacts cache (224B) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:11.696465] Downloaded app package (3.7M) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:11.777583] -----> Nodejs Buildpack version 1.8.9 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:11.912748] -----> Bootstrapping python (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:11.912757] -----> Installing python 3.10.10 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:11.912907] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/15767492c6f5ea8df33d4884e0261788/python_3.10.10_linux_x64_cflinuxfs4_430b17fd.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:14.409701] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:14.409757] engines.node (package.json): unspecified (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:14.409767] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:14.409833] [31;1m**WARNING**[0m Node version not specified in package.json or .nvmrc. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:14.409839] -----> Installing node 18.15.0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:14.409937] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/f0d498492e131603a63dfbb71d095158/node_18.15.0_linux_x64_cflinuxfs4_8d6d8524.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.430598] Using default npm version: 9.5.0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.430617] -----> Installing yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.430706] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/0f06052381cbcef1593bd279ca3d9458/yarn_1.22.19_linux_noarch_any-stack_32d0e82e.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.715#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.754829] Installed yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.754843] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.755881] NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.755892] NODE_HOME=/tmp/contents3627602916/deps/0/node (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.755894] NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.755896] NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.755897] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.755900] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.755913] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.755915] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:16.755945] Rebuilding any native modules (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:17.292027] rebuilt dependencies successfully (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:17.300262] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:17.977539] up to date in 324ms (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:17.977688] 9 packages are looking for funding (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:17.977698] run `npm fund` for details (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:18.703549] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:18.703567] inside Sealights hook (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:18.703618] service is not configured to run with Sealights (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:26.676191] Exit status 0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:26.676230] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:26.676265] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:26.676273] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:26.714534] Uploaded build artifacts cache (223B) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:27.257349] Creating droplet for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:31.371564] Uploaded droplet (47.5M) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:31.381239] Uploading complete (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:31.749395] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 stopping instance 53109267-e3c5-4bbd-81b5-cec7ed5b503f (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:31.749424] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 destroying container for instance 53109267-e3c5-4bbd-81b5-cec7ed5b503f (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:33.249493] Cell 96faf28f-137a-45c5-96f4-1ff6192fd910 successfully destroyed container for instance 53109267-e3c5-4bbd-81b5-cec7ed5b503f (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:40.460328] Updated app with guid c3f94b08-f586-4c56-b119-ab943e9335ad ({:droplet_guid=>"560c55ad-1b5f-4ae0-bbee-bfcca2f8be11"}) (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:40.818164] Creating revision for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:40.865053] Starting app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:41.222981] Cell ee525f5d-673a-441b-a88a-f7acf9ab2e9e creating container for instance ccca2c48-8ad2-4598-5e0d-87c1 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:41.692360] Security group rules were updated (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:41.713102] Cell ee525f5d-673a-441b-a88a-f7acf9ab2e9e successfully created container for instance ccca2c48-8ad2-4598-5e0d-87c1 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:42.018181] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:44.623288] Downloaded droplet (47.5M) (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:44.623373] Starting health monitoring of container (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.424732] > newCAPML@1.0.0 start (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.424747] > cds-serve (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.773182] [cds] - loaded model from 1 file(s): (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.773203] [2m (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.773486] srv/csn.json (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.773500] [0m (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969460] [cds] - connect to db > hana { (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969485] database_id: '14a552ee-5028-4a45-933e-28455029a1c7', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969489] host: '14a552ee-5028-4a45-933e-28455029a1c7.hna0.prod-eu10.hanacloud.ondemand.com', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969497] port: '443', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969501] driver: 'com.sap.db.jdbc.Driver', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969505] url: 'jdbc:sap://14a552ee-5028-4a45-933e-28455029a1c7.hna0.prod-eu10.hanacloud.ondemand.com:443?encrypt=true&validateCertificate=true&currentschema=33FF97A78A9147B196A80C74FB094242', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969510] schema: '33FF97A78A9147B196A80C74FB094242', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969513] hdi_user: '33FF97A78A9147B196A80C74FB094242_AYMNO2MM2WXG1ITA43EP6T23N_DT', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969517] hdi_password: '...', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969520] user: '33FF97A78A9147B196A80C74FB094242_AYMNO2MM2WXG1ITA43EP6T23N_RT', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969525] password: '...', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969527] certificate: '...' (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.969532] } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.716#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:45.999978] [cds] - (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:46] No XSUAA instance bound to application, but "JWT" configured. (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:46.000004] This is NOT recommended in production! (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:46.000007]  (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:46.203811] [cds] - serving CatalogService { path: '/catalog', impl: 'srv/hana-ml-cat-service.js' } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:46.210495] [cds] - server listening on { url: 'http://localhost:8080' } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:46.210717] [cds] - launched at 7/11/2023, 3:56:45 PM, version: 6.8.4, in: 606.476ms (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:56:47.638474] Container became healthy (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:57:16.257724] Cell e608d54b-1780-4022-acd9-94afd9f8a44a destroying container for instance 9386cc35-47cd-4a70-4d74-a7b6 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:57:17.859968] Exit status 137 (STDOUT, PROXY)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T15:57:18.190884] Cell e608d54b-1780-4022-acd9-94afd9f8a44a successfully destroyed container for instance 9386cc35-47cd-4a70-4d74-a7b6 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:13.648645] Uploading app package for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:13.904388] Updated app with guid c3f94b08-f586-4c56-b119-ab943e9335ad ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:22.000506] Stopping app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:22.078692] Cell ee525f5d-673a-441b-a88a-f7acf9ab2e9e stopping instance ccca2c48-8ad2-4598-5e0d-87c1 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:22.269351] Creating build for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:22.900695] Downloading nodejs_buildpack... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:22.935743] Downloaded nodejs_buildpack (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:22.935784] Cell 683e2125-1e15-4202-8bbd-db8adc0e3400 creating container for instance 3a82310f-4dd7-4c41-9f25-a357064124a2 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:23.351999] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:23.366177] Cell 683e2125-1e15-4202-8bbd-db8adc0e3400 successfully created container for instance 3a82310f-4dd7-4c41-9f25-a357064124a2 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:23.989518] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:23.989525] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:24.042670] Downloaded build artifacts cache (223B) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:24.314249] Downloaded app package (3.7M) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:24.400167] -----> Nodejs Buildpack version 1.8.9 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:24.532883] -----> Bootstrapping python (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:24.532893] -----> Installing python 3.10.10 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:24.532902] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/15767492c6f5ea8df33d4884e0261788/python_3.10.10_linux_x64_cflinuxfs4_430b17fd.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:27.147928] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:27.147959] engines.node (package.json): unspecified (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:27.147962] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:27.147973] [31;1m**WARNING**[0m Node version not specified in package.json or .nvmrc. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:27.148049] -----> Installing node 18.15.0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:27.148156] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/f0d498492e131603a63dfbb71d095158/node_18.15.0_linux_x64_cflinuxfs4_8d6d8524.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.196217] Using default npm version: 9.5.0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.196497] -----> Installing yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.196733] Copy [/tmp/buildpacks/c0dc0c578e94050ec18c68aa2d4d6c22/dependencies/0f06052381cbcef1593bd279ca3d9458/yarn_1.22.19_linux_noarch_any-stack_32d0e82e.tgz] (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.533153] Installed yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.533189] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.534948] NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.534956] NODE_HOME=/tmp/contents3719493738/deps/0/node (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.534958] NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.534959] NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.534961] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.534963] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.534995] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.534998] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:29.535049] Rebuilding any native modules (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:30.079849] rebuilt dependencies successfully (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:30.089459] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:30.787027] up to date in 333ms (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:30.787138] 9 packages are looking for funding (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:31.717#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-2305###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:30.787148] run `npm fund` for details (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:42.076#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4927###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:31.556930] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:42.076#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4927###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:31.556944] inside Sealights hook (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:42.076#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4927###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:31.556956] service is not configured to run with Sealights (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:42.076#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4927###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:39.493124] Exit status 0 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:42.076#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4927###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:39.493160] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:42.076#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4927###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:39.493225] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:42.076#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4927###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:39.493236] Uploading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:42.076#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4927###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:39.618053] Uploaded build artifacts cache (222B) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:42.076#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4927###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:40.063081] Creating droplet for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:08:52.491#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4713###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:43.177448] Uploaded droplet (47.5M) (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:52.491#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4713###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:43.188209] Uploading complete (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:52.491#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4713###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:43.421053] Cell 683e2125-1e15-4202-8bbd-db8adc0e3400 stopping instance 3a82310f-4dd7-4c41-9f25-a357064124a2 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:52.491#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4713###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:43.421079] Cell 683e2125-1e15-4202-8bbd-db8adc0e3400 destroying container for instance 3a82310f-4dd7-4c41-9f25-a357064124a2 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:08:52.491#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-4713###
+[PollStageAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:46.125489] Cell 683e2125-1e15-4202-8bbd-db8adc0e3400 successfully destroyed container for instance 3a82310f-4dd7-4c41-9f25-a357064124a2 (STDOUT, STG)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:52.694234] Updated app with guid c3f94b08-f586-4c56-b119-ab943e9335ad ({:droplet_guid=>"3bb39796-efba-4add-b45c-767affdf4433"}) (STDOUT, API)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:53.009744] Creating revision for app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:53.064863] Starting app with guid c3f94b08-f586-4c56-b119-ab943e9335ad (STDOUT, API)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:53.272862] Cell e2e1a118-665b-4e63-aeb5-838f805c4e86 creating container for instance 686ea737-09e2-4490-4426-9db3 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:53.685719] Security group rules were updated (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:53.701890] Cell e2e1a118-665b-4e63-aeb5-838f805c4e86 successfully created container for instance 686ea737-09e2-4490-4426-9db3 (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:54.190858] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:56.817789] Downloaded droplet (47.5M) (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:56.817937] Starting health monitoring of container (STDOUT, CELL)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:57.607415] > newCAPML@1.0.0 start (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:57.607429] > cds-serve (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:57.928106] [cds] - loaded model from 1 file(s): (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:57.928130] [2m (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:57.928358] srv/csn.json (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:57.928368] [0m (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109917] [cds] - connect to db > hana { (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109928] database_id: '14a552ee-5028-4a45-933e-28455029a1c7', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109933] host: '14a552ee-5028-4a45-933e-28455029a1c7.hna0.prod-eu10.hanacloud.ondemand.com', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109937] port: '443', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109940] driver: 'com.sap.db.jdbc.Driver', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109945] url: 'jdbc:sap://14a552ee-5028-4a45-933e-28455029a1c7.hna0.prod-eu10.hanacloud.ondemand.com:443?encrypt=true&validateCertificate=true&currentschema=33FF97A78A9147B196A80C74FB094242', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109947] schema: '33FF97A78A9147B196A80C74FB094242', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109950] hdi_user: '33FF97A78A9147B196A80C74FB094242_77E3THLRQAY9KIY1VM0RFN061_DT', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109955] hdi_password: '...', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109958] user: '33FF97A78A9147B196A80C74FB094242_77E3THLRQAY9KIY1VM0RFN061_RT', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109961] password: '...', (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109963] certificate: '...' (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.109965] } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.145363] [cds] - (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.145380] No XSUAA instance bound to application, but "JWT" configured. (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.145384] This is NOT recommended in production! (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.145388]  (STDERR, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.343363] [cds] - serving CatalogService { path: '/catalog', impl: 'srv/hana-ml-cat-service.js' } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.349936] [cds] - server listening on { url: 'http://localhost:8080' } (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:58.350170] [cds] - launched at 7/11/2023, 4:08:57 PM, version: 6.8.4, in: 585.287ms (STDOUT, APP/PROC/WEB)#
+
+#2.0#2023 07 11 16:09:02.686#Z#DEBUG#com.sap.cloud.lm.sl.xs2.f89caefb-2004-11ee-a62f-eeee0a831d63.newCAPML-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-5012###
+[PollStartAppStatusExecution] [newCAPML-srv] c3f94b08-f586-4c56-b119-ab943e9335ad [2023-07-11T16:08:59.128668] Container became healthy (STDOUT, CELL)#
+

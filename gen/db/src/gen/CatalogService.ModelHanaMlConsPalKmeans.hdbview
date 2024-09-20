@@ -1,0 +1,6 @@
+VIEW CatalogService_ModelHanaMlConsPalKmeans AS SELECT
+  ModelHanaMlConsPalKmeans_0.id,
+  ModelHanaMlConsPalKmeans_0.cluster_id,
+  ModelHanaMlConsPalKmeans_0."DISTANCE",
+  ModelHanaMlConsPalKmeans_0.slight_silhouette
+FROM hana_ml_Fit_ModelHanaMlConsPalKmeans AS ModelHanaMlConsPalKmeans_0

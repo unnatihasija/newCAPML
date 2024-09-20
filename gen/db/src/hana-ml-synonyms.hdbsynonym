@@ -1,0 +1,20 @@
+{
+    "SYSAFL::PALKMEANS": {
+        "target": {
+            "object": "PAL_KMEANS",
+            "schema": "_SYS_AFL"
+        }
+    },
+    "AUDIOFEATURES_UH": {
+        "target": {
+            "object": "AUDIOFEATURES_UH",
+            "schema": "SPOTIFY"
+        }
+    },
+    "AUDIOFEATURES_UH_NN": {
+        "target": {
+            "object": "AUDIOFEATURES_UH_NN",
+            "schema": "SPOTIFY"
+        }
+    }
+}

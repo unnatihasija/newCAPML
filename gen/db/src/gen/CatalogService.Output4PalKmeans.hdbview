@@ -1,0 +1,6 @@
+VIEW CatalogService_Output4PalKmeans AS SELECT
+  Output4PalKmeans_0.param_name,
+  Output4PalKmeans_0.int_value,
+  Output4PalKmeans_0.double_value,
+  Output4PalKmeans_0.string_value
+FROM hana_ml_Fit_Output4PalKmeans AS Output4PalKmeans_0

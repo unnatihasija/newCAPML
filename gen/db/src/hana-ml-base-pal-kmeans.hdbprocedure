@@ -1,0 +1,52 @@
+PROCEDURE hana_ml_base_pal_kmeans(
+in in_0_hana_ml_base_pal_kmeans TABLE("ID" NVARCHAR(5000), "acousticness" DOUBLE, "danceability" DOUBLE, "instrumentalness" DOUBLE, "energy" DOUBLE, "speechiness" DOUBLE, "liveness" DOUBLE, "valence" DOUBLE),
+out out_0_hana_ml_base_pal_kmeans TABLE("ID" NVARCHAR(5000), "CLUSTER_ID" INT, "DISTANCE" DOUBLE, "SLIGHT_SILHOUETTE" DOUBLE),
+out out_1_hana_ml_base_pal_kmeans TABLE("CLUSTER_ID" INT, "acousticness" DOUBLE, "danceability" DOUBLE, "instrumentalness" DOUBLE, "energy" DOUBLE, "speechiness" DOUBLE, "liveness" DOUBLE, "valence" DOUBLE),
+out out_2_hana_ml_base_pal_kmeans TABLE("ROW_INDEX" INT, "MODEL_CONTENT" NVARCHAR(5000)),
+out out_3_hana_ml_base_pal_kmeans TABLE("STAT_NAME" NVARCHAR(256), "STAT_VALUE" NVARCHAR(1000)),
+out out_4_hana_ml_base_pal_kmeans TABLE("PARAM_NAME" NVARCHAR(256), "INT_VALUE" INT, "DOUBLE_VALUE" DOUBLE, "STRING_VALUE" NVARCHAR(1000)))
+LANGUAGE SQLSCRIPT
+SQL SECURITY INVOKER
+AS
+BEGIN
+DECLARE param_name VARCHAR(5000) ARRAY;
+DECLARE int_value INTEGER ARRAY;
+DECLARE double_value DOUBLE ARRAY;
+DECLARE string_value VARCHAR(5000) ARRAY;
+param_name[1] := N'GROUP_NUMBER';
+int_value[1] := 5;
+double_value[1] := NULL;
+string_value[1] := NULL;
+param_name[2] := N'DISTANCE_LEVEL';
+int_value[2] := 2;
+double_value[2] := NULL;
+string_value[2] := NULL;
+param_name[3] := N'CATEGORY_WEIGHTS';
+int_value[3] := NULL;
+double_value[3] := 0.5;
+string_value[3] := NULL;
+param_name[4] := N'MAX_ITERATION';
+int_value[4] := 10;
+double_value[4] := NULL;
+string_value[4] := NULL;
+param_name[5] := N'NORMALIZATION';
+int_value[5] := 2;
+double_value[5] := NULL;
+string_value[5] := NULL;
+param_name[6] := N'THREAD_RATIO';
+int_value[6] := NULL;
+double_value[6] := 0.2;
+string_value[6] := NULL;
+param_name[7] := N'EXIT_THRESHOLD';
+int_value[7] := NULL;
+double_value[7] := 1e-06;
+string_value[7] := NULL;
+params = UNNEST(:param_name, :int_value, :double_value, :string_value);
+in_0 = SELECT * FROM :in_0_hana_ml_base_pal_kmeans;
+CALL "SYSAFL::PALKMEANS"(:in_0, :params, out_0, out_1, out_2, out_3, out_4);
+out_0_hana_ml_base_pal_kmeans = SELECT * FROM :out_0;
+out_1_hana_ml_base_pal_kmeans = SELECT * FROM :out_1;
+out_2_hana_ml_base_pal_kmeans = SELECT * FROM :out_2;
+out_3_hana_ml_base_pal_kmeans = SELECT * FROM :out_3;
+out_4_hana_ml_base_pal_kmeans = SELECT * FROM :out_4;
+END

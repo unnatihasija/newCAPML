@@ -1,0 +1,6 @@
+COLUMN TABLE hana_ml_Fit_ModelHanaMlConsPalKmeans (
+  id NVARCHAR(5000),
+  cluster_id INTEGER,
+  "DISTANCE" DOUBLE,
+  slight_silhouette DOUBLE
+)

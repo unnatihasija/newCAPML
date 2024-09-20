@@ -1,0 +1,4 @@
+VIEW CatalogService_Output2PalKmeans AS SELECT
+  Output2PalKmeans_0.row_index,
+  Output2PalKmeans_0.model_content
+FROM hana_ml_Fit_Output2PalKmeans AS Output2PalKmeans_0

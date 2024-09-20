@@ -1,0 +1,32 @@
+PROCEDURE recommendnextsong( in "ID" NVARCHAR(5000),
+out lt_songs TABLE ("track_name" NVARCHAR(5000)))
+--out "TRACK_NAME" NVARCHAR(5000))
+LANGUAGE SQLSCRIPT 
+SQL SECURITY INVOKER AS 
+BEGIN 
+CALL hana_ml_cons_pal_kmeans(
+out_0_hana_ml_cons_pal_kmeans => OUT_0_HANA_ML_CONS_PAL_KMEANS,
+out_1_hana_ml_cons_pal_kmeans => OUT_1_HANA_ML_CONS_PAL_KMEANS,
+out_2_hana_ml_cons_pal_kmeans => OUT_2_HANA_ML_CONS_PAL_KMEANS,
+out_3_hana_ml_cons_pal_kmeans => OUT_3_HANA_ML_CONS_PAL_KMEANS,
+out_4_hana_ml_cons_pal_kmeans => OUT_4_HANA_ML_CONS_PAL_KMEANS
+);
+tracks =
+SELECT *
+FROM "AUDIOFEATURES_UH_NN";
+ids =
+SELECT DISTINCT ID
+FROM :OUT_0_HANA_ML_CONS_PAL_KMEANS LIMIT 5;
+lt_songs =
+SELECT t."track_name"
+FROM :ids AS i
+LEFT OUTER JOIN :tracks AS t
+ON t.ID = i.ID;
+TRUNCATE TABLE "HANA_ML_FIT_RECOMMENDATIONS";
+INSERT INTO "HANA_ML_FIT_RECOMMENDATIONS"
+SELECT *
+FROM :lt_songs; 
+/*  FOR i IN 1..5 DO
+lt_song = lt_song + lt_list_songs[0];
+END FOR; */
+END

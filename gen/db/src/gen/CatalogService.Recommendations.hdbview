@@ -1,0 +1,3 @@
+VIEW CatalogService_Recommendations AS SELECT
+  recommendations_0.TRACK_NAME
+FROM hana_ml_Fit_recommendations AS recommendations_0
