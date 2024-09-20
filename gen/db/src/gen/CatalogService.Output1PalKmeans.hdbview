@@ -1,0 +1,10 @@
+VIEW CatalogService_Output1PalKmeans AS SELECT
+  Output1PalKmeans_0.cluster_id,
+  Output1PalKmeans_0.acousticness,
+  Output1PalKmeans_0.danceability,
+  Output1PalKmeans_0.instrumentalness,
+  Output1PalKmeans_0.energy,
+  Output1PalKmeans_0.speechiness,
+  Output1PalKmeans_0.liveness,
+  Output1PalKmeans_0.valence
+FROM hana_ml_Fit_Output1PalKmeans AS Output1PalKmeans_0

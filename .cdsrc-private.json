@@ -1,0 +1,21 @@
+{
+  "requires": {
+    "[hybrid]": {
+      "db": {
+        "binding": {
+          "type": "cf",
+          "apiEndpoint": "https://api.cf.eu10.hana.ondemand.com",
+          "org": "SAP.iO_ext-sfapi-fljcvuzh",
+          "space": "hcdb",
+          "instance": "newCAPML-hdinewCAPML-db-deployer-ws-n29cm",
+          "key": "SharedDevKey",
+          "resolved": false
+        },
+        "kind": "hana-cloud",
+        "vcap": {
+          "name": "db"
+        }
+      }
+    }
+  }
+}

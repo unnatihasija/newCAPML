@@ -1,0 +1,3 @@
+COLUMN TABLE hana_ml_Fit_recommendations (
+  TRACK_NAME NVARCHAR(5000)
+)

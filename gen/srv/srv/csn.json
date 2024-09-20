@@ -1,0 +1,278 @@
+{
+  "namespace": "hana.ml",
+  "definitions": {
+    "hana.ml.Fit": {
+      "kind": "context"
+    },
+    "hana.ml.Fit.recommendations": {
+      "kind": "entity",
+      "elements": {
+        "TRACK_NAME": {
+          "type": "cds.String",
+          "length": 5000
+        }
+      }
+    },
+    "hana.ml.Fit.ModelHanaMlConsPalKmeans": {
+      "kind": "entity",
+      "elements": {
+        "id": {
+          "type": "cds.String",
+          "length": 5000
+        },
+        "cluster_id": {
+          "type": "cds.Integer"
+        },
+        "distance": {
+          "type": "cds.Double"
+        },
+        "slight_silhouette": {
+          "type": "cds.Double"
+        }
+      }
+    },
+    "hana.ml.Fit.Output1PalKmeans": {
+      "kind": "entity",
+      "elements": {
+        "cluster_id": {
+          "type": "cds.Integer"
+        },
+        "acousticness": {
+          "type": "cds.Double"
+        },
+        "danceability": {
+          "type": "cds.Double"
+        },
+        "instrumentalness": {
+          "type": "cds.Double"
+        },
+        "energy": {
+          "type": "cds.Double"
+        },
+        "speechiness": {
+          "type": "cds.Double"
+        },
+        "liveness": {
+          "type": "cds.Double"
+        },
+        "valence": {
+          "type": "cds.Double"
+        }
+      }
+    },
+    "hana.ml.Fit.Output2PalKmeans": {
+      "kind": "entity",
+      "elements": {
+        "row_index": {
+          "type": "cds.Integer"
+        },
+        "model_content": {
+          "type": "cds.String",
+          "length": 5000
+        }
+      }
+    },
+    "hana.ml.Fit.Output3PalKmeans": {
+      "kind": "entity",
+      "elements": {
+        "stat_name": {
+          "type": "cds.String",
+          "length": 256
+        },
+        "stat_value": {
+          "type": "cds.String",
+          "length": 1000
+        }
+      }
+    },
+    "hana.ml.Fit.Output4PalKmeans": {
+      "kind": "entity",
+      "elements": {
+        "param_name": {
+          "type": "cds.String",
+          "length": 256
+        },
+        "int_value": {
+          "type": "cds.Integer"
+        },
+        "double_value": {
+          "type": "cds.Double"
+        },
+        "string_value": {
+          "type": "cds.String",
+          "length": 1000
+        }
+      }
+    },
+    "CatalogService": {
+      "@source": "srv/hana-ml-cat-service.cds",
+      "kind": "service"
+    },
+    "CatalogService.ModelHanaMlConsPalKmeans": {
+      "kind": "entity",
+      "@readonly": true,
+      "projection": {
+        "from": {
+          "ref": [
+            "hana.ml.Fit.ModelHanaMlConsPalKmeans"
+          ]
+        }
+      },
+      "elements": {
+        "id": {
+          "type": "cds.String",
+          "length": 5000
+        },
+        "cluster_id": {
+          "type": "cds.Integer"
+        },
+        "distance": {
+          "type": "cds.Double"
+        },
+        "slight_silhouette": {
+          "type": "cds.Double"
+        }
+      }
+    },
+    "CatalogService.Output1PalKmeans": {
+      "kind": "entity",
+      "@readonly": true,
+      "projection": {
+        "from": {
+          "ref": [
+            "hana.ml.Fit.Output1PalKmeans"
+          ]
+        }
+      },
+      "elements": {
+        "cluster_id": {
+          "type": "cds.Integer"
+        },
+        "acousticness": {
+          "type": "cds.Double"
+        },
+        "danceability": {
+          "type": "cds.Double"
+        },
+        "instrumentalness": {
+          "type": "cds.Double"
+        },
+        "energy": {
+          "type": "cds.Double"
+        },
+        "speechiness": {
+          "type": "cds.Double"
+        },
+        "liveness": {
+          "type": "cds.Double"
+        },
+        "valence": {
+          "type": "cds.Double"
+        }
+      }
+    },
+    "CatalogService.Output2PalKmeans": {
+      "kind": "entity",
+      "@readonly": true,
+      "projection": {
+        "from": {
+          "ref": [
+            "hana.ml.Fit.Output2PalKmeans"
+          ]
+        }
+      },
+      "elements": {
+        "row_index": {
+          "type": "cds.Integer"
+        },
+        "model_content": {
+          "type": "cds.String",
+          "length": 5000
+        }
+      }
+    },
+    "CatalogService.Output3PalKmeans": {
+      "kind": "entity",
+      "@readonly": true,
+      "projection": {
+        "from": {
+          "ref": [
+            "hana.ml.Fit.Output3PalKmeans"
+          ]
+        }
+      },
+      "elements": {
+        "stat_name": {
+          "type": "cds.String",
+          "length": 256
+        },
+        "stat_value": {
+          "type": "cds.String",
+          "length": 1000
+        }
+      }
+    },
+    "CatalogService.Output4PalKmeans": {
+      "kind": "entity",
+      "@readonly": true,
+      "projection": {
+        "from": {
+          "ref": [
+            "hana.ml.Fit.Output4PalKmeans"
+          ]
+        }
+      },
+      "elements": {
+        "param_name": {
+          "type": "cds.String",
+          "length": 256
+        },
+        "int_value": {
+          "type": "cds.Integer"
+        },
+        "double_value": {
+          "type": "cds.Double"
+        },
+        "string_value": {
+          "type": "cds.String",
+          "length": 1000
+        }
+      }
+    },
+    "CatalogService.Recommendations": {
+      "kind": "entity",
+      "@readonly": true,
+      "projection": {
+        "from": {
+          "ref": [
+            "hana.ml.Fit.recommendations"
+          ]
+        }
+      },
+      "elements": {
+        "TRACK_NAME": {
+          "type": "cds.String",
+          "length": 5000
+        }
+      }
+    },
+    "CatalogService.recommendnextsong": {
+      "kind": "function",
+      "params": {
+        "ID": {
+          "type": "cds.String"
+        }
+      },
+      "returns": {
+        "items": {
+          "type": "cds.String"
+        }
+      }
+    }
+  },
+  "meta": {
+    "creator": "CDS Compiler v3.9.4",
+    "flavor": "inferred"
+  },
+  "$version": "2.0"
+}

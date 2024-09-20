@@ -1,0 +1,4 @@
+COLUMN TABLE hana_ml_Fit_Output3PalKmeans (
+  stat_name NVARCHAR(256),
+  stat_value NVARCHAR(1000)
+)

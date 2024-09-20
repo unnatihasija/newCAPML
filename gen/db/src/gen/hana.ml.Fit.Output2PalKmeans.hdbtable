@@ -1,0 +1,4 @@
+COLUMN TABLE hana_ml_Fit_Output2PalKmeans (
+  row_index INTEGER,
+  model_content NVARCHAR(5000)
+)

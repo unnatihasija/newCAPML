@@ -1,0 +1,10 @@
+COLUMN TABLE hana_ml_Fit_Output1PalKmeans (
+  cluster_id INTEGER,
+  acousticness DOUBLE,
+  danceability DOUBLE,
+  instrumentalness DOUBLE,
+  energy DOUBLE,
+  speechiness DOUBLE,
+  liveness DOUBLE,
+  valence DOUBLE
+)

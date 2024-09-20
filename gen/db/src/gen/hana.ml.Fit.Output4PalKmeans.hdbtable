@@ -1,0 +1,6 @@
+COLUMN TABLE hana_ml_Fit_Output4PalKmeans (
+  param_name NVARCHAR(256),
+  int_value INTEGER,
+  double_value DOUBLE,
+  string_value NVARCHAR(1000)
+)

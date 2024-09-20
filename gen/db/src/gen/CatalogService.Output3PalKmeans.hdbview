@@ -1,0 +1,4 @@
+VIEW CatalogService_Output3PalKmeans AS SELECT
+  Output3PalKmeans_0.stat_name,
+  Output3PalKmeans_0.stat_value
+FROM hana_ml_Fit_Output3PalKmeans AS Output3PalKmeans_0

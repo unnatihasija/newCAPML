@@ -1,0 +1,23 @@
+PROCEDURE hana_ml_cons_pal_kmeans(
+out out_0_hana_ml_cons_pal_kmeans TABLE("ID" NVARCHAR(5000), "CLUSTER_ID" INT, "DISTANCE" DOUBLE, "SLIGHT_SILHOUETTE" DOUBLE),
+out out_1_hana_ml_cons_pal_kmeans TABLE("CLUSTER_ID" INT, "acousticness" DOUBLE, "danceability" DOUBLE, "instrumentalness" DOUBLE, "energy" DOUBLE, "speechiness" DOUBLE, "liveness" DOUBLE, "valence" DOUBLE),
+out out_2_hana_ml_cons_pal_kmeans TABLE("ROW_INDEX" INT, "MODEL_CONTENT" NVARCHAR(5000)),
+out out_3_hana_ml_cons_pal_kmeans TABLE("STAT_NAME" NVARCHAR(256), "STAT_VALUE" NVARCHAR(1000)),
+out out_4_hana_ml_cons_pal_kmeans TABLE("PARAM_NAME" NVARCHAR(256), "INT_VALUE" INT, "DOUBLE_VALUE" DOUBLE, "STRING_VALUE" NVARCHAR(1000)))
+LANGUAGE SQLSCRIPT
+SQL SECURITY INVOKER
+AS
+BEGIN
+in_0_hana_ml_cons_pal_kmeans = SELECT "ID", "acousticness", "danceability", "instrumentalness", "energy", "speechiness", "liveness", "valence" FROM (SELECT * FROM "AUDIOFEATURES_UH_NN") AS "DT_11";
+CALL hana_ml_base_pal_kmeans(:in_0_hana_ml_cons_pal_kmeans, out_0_hana_ml_cons_pal_kmeans, out_1_hana_ml_cons_pal_kmeans, out_2_hana_ml_cons_pal_kmeans, out_3_hana_ml_cons_pal_kmeans, out_4_hana_ml_cons_pal_kmeans);
+TRUNCATE TABLE HANA_ML_FIT_MODELHANAMLCONSPALKMEANS;
+INSERT INTO HANA_ML_FIT_MODELHANAMLCONSPALKMEANS SELECT * FROM :out_0_hana_ml_cons_pal_kmeans;
+TRUNCATE TABLE HANA_ML_FIT_OUTPUT1PALKMEANS;
+INSERT INTO HANA_ML_FIT_OUTPUT1PALKMEANS SELECT * FROM :out_1_hana_ml_cons_pal_kmeans;
+TRUNCATE TABLE HANA_ML_FIT_OUTPUT2PALKMEANS;
+INSERT INTO HANA_ML_FIT_OUTPUT2PALKMEANS SELECT * FROM :out_2_hana_ml_cons_pal_kmeans;
+TRUNCATE TABLE HANA_ML_FIT_OUTPUT3PALKMEANS;
+INSERT INTO HANA_ML_FIT_OUTPUT3PALKMEANS SELECT * FROM :out_3_hana_ml_cons_pal_kmeans;
+TRUNCATE TABLE HANA_ML_FIT_OUTPUT4PALKMEANS;
+INSERT INTO HANA_ML_FIT_OUTPUT4PALKMEANS SELECT * FROM :out_4_hana_ml_cons_pal_kmeans;
+END
